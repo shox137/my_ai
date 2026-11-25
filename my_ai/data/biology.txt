@@ -1,0 +1,120 @@
+<user> Explain the nucleus in simple words. <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> Tell me about a red blood cell. <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> Tell me about an enzyme. <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about mitochondria? <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> What is the nucleus? <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> What does biology say about a red blood cell? <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> What does biology say about the nucleus? <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> What does biology say about a ribosome? <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Tell me about mitochondria. <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> Explain a chloroplast in simple words. <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> Explain a red blood cell in simple words. <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> What is the cell membrane? <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain a neuron in simple words. <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What does biology say about a chloroplast? <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> What does biology say about photosynthesis? <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Explain a ribosome in simple words. <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain an enzyme in simple words. <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about an enzyme? <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What is a chloroplast? <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> What is an enzyme? <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about DNA? <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> Tell me about a neuron. <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a red blood cell? <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> Tell me about the cell membrane. <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain photosynthesis in simple words. <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Tell me about DNA. <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> What is photosynthesis? <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> What does biology say about a neuron? <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a neuron? <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a ribosome? <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain DNA in simple words. <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> What does biology say about the cell membrane? <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> What is DNA? <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> Tell me about a chloroplast. <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> Tell me about photosynthesis. <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Tell me about a ribosome. <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain the cell membrane in simple words. <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain mitochondria in simple words. <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> What is mitochondria? <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> Tell me about the nucleus. <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> Explain the nucleus in simple words. <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> Tell me about a red blood cell. <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> Tell me about an enzyme. <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about mitochondria? <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> What is the nucleus? <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> What does biology say about a red blood cell? <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> What does biology say about the nucleus? <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> What does biology say about a ribosome? <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Tell me about mitochondria. <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> Explain a chloroplast in simple words. <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> Explain a red blood cell in simple words. <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> What is the cell membrane? <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain a neuron in simple words. <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What does biology say about a chloroplast? <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> What does biology say about photosynthesis? <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Explain a ribosome in simple words. <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain an enzyme in simple words. <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about an enzyme? <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What is a chloroplast? <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> What is an enzyme? <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about DNA? <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> Tell me about a neuron. <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a red blood cell? <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> Tell me about the cell membrane. <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain photosynthesis in simple words. <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Tell me about DNA. <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> What is photosynthesis? <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> What does biology say about a neuron? <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a neuron? <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a ribosome? <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain DNA in simple words. <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> What does biology say about the cell membrane? <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> What is DNA? <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> Tell me about a chloroplast. <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> Tell me about photosynthesis. <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Tell me about a ribosome. <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain the cell membrane in simple words. <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain mitochondria in simple words. <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> What is mitochondria? <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> Tell me about the nucleus. <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> Explain the nucleus in simple words. <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> Tell me about a red blood cell. <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> Tell me about an enzyme. <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about mitochondria? <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> What is the nucleus? <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> What does biology say about a red blood cell? <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> What does biology say about the nucleus? <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>
+<user> What does biology say about a ribosome? <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Tell me about mitochondria. <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> Explain a chloroplast in simple words. <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> Explain a red blood cell in simple words. <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> What is the cell membrane? <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain a neuron in simple words. <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What does biology say about a chloroplast? <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> What does biology say about photosynthesis? <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Explain a ribosome in simple words. <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain an enzyme in simple words. <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about an enzyme? <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What is a chloroplast? <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> What is an enzyme? <assistant> Enzymes are proteins that speed up chemical reactions in living things. <eos>
+<user> What does biology say about DNA? <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> Tell me about a neuron. <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a red blood cell? <assistant> Red blood cells carry oxygen around the body using a protein called hemoglobin. <eos>
+<user> Tell me about the cell membrane. <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain photosynthesis in simple words. <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Tell me about DNA. <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> What is photosynthesis? <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> What does biology say about a neuron? <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a neuron? <assistant> Neurons send signals through the body as electrical and chemical messages. <eos>
+<user> What is a ribosome? <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain DNA in simple words. <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> What does biology say about the cell membrane? <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> What is DNA? <assistant> DNA stores the genetic instructions that cells use to build and run an organism. <eos>
+<user> Tell me about a chloroplast. <assistant> Chloroplasts carry out photosynthesis, turning light, water and carbon dioxide into sugar and oxygen. <eos>
+<user> Tell me about photosynthesis. <assistant> Photosynthesis is how plants turn sunlight into chemical energy stored in sugar. <eos>
+<user> Tell me about a ribosome. <assistant> A ribosome builds proteins by reading messenger RNA and joining amino acids in order. <eos>
+<user> Explain the cell membrane in simple words. <assistant> The cell membrane controls which substances can enter and leave the cell. <eos>
+<user> Explain mitochondria in simple words. <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> What is mitochondria? <assistant> Mitochondria produce most of the cell's ATP, which is the energy the cell uses. <eos>
+<user> Tell me about the nucleus. <assistant> The nucleus holds the cell's DNA and controls many of the cell's activities. <eos>

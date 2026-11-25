@@ -1,0 +1,96 @@
+<user> Write code to check if a number is even in Python. <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> What is the easiest way to count the items in a list in Python? <assistant> Use len(items) to get how many items a list has. <eos>
+<user> What is the easiest way to reverse a string in Python? <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> What is the easiest way to loop over a list in Python? <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> Write code to sort a list in Python. <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> Show me how to reverse a string in Python. <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> How do I check if a number is even in Python? <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Show me how to make a dictionary in Python. <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> How do I count the items in a list in Python? <assistant> Use len(items) to get how many items a list has. <eos>
+<user> How do I sort a list in Python? <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> What is the easiest way to read a file in Python? <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Write code to loop over a list in Python. <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> How do I define a function in Python? <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> How do I loop over a list in Python? <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> Show me how to define a function in Python. <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> What is the easiest way to make a dictionary in Python? <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> What is the easiest way to define a function in Python? <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> Write code to reverse a string in Python. <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> Write code to read a file in Python. <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> How do I read a file in Python? <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Write code to make a dictionary in Python. <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> How do I make a dictionary in Python? <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> Show me how to read a file in Python. <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Show me how to loop over a list in Python. <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> What is the easiest way to sort a list in Python? <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> Show me how to count the items in a list in Python. <assistant> Use len(items) to get how many items a list has. <eos>
+<user> Show me how to sort a list in Python. <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> How do I reverse a string in Python? <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> Show me how to check if a number is even in Python. <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Write code to count the items in a list in Python. <assistant> Use len(items) to get how many items a list has. <eos>
+<user> What is the easiest way to check if a number is even in Python? <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Write code to define a function in Python. <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> Write code to check if a number is even in Python. <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> What is the easiest way to count the items in a list in Python? <assistant> Use len(items) to get how many items a list has. <eos>
+<user> What is the easiest way to reverse a string in Python? <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> What is the easiest way to loop over a list in Python? <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> Write code to sort a list in Python. <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> Show me how to reverse a string in Python. <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> How do I check if a number is even in Python? <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Show me how to make a dictionary in Python. <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> How do I count the items in a list in Python? <assistant> Use len(items) to get how many items a list has. <eos>
+<user> How do I sort a list in Python? <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> What is the easiest way to read a file in Python? <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Write code to loop over a list in Python. <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> How do I define a function in Python? <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> How do I loop over a list in Python? <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> Show me how to define a function in Python. <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> What is the easiest way to make a dictionary in Python? <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> What is the easiest way to define a function in Python? <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> Write code to reverse a string in Python. <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> Write code to read a file in Python. <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> How do I read a file in Python? <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Write code to make a dictionary in Python. <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> How do I make a dictionary in Python? <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> Show me how to read a file in Python. <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Show me how to loop over a list in Python. <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> What is the easiest way to sort a list in Python? <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> Show me how to count the items in a list in Python. <assistant> Use len(items) to get how many items a list has. <eos>
+<user> Show me how to sort a list in Python. <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> How do I reverse a string in Python? <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> Show me how to check if a number is even in Python. <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Write code to count the items in a list in Python. <assistant> Use len(items) to get how many items a list has. <eos>
+<user> What is the easiest way to check if a number is even in Python? <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Write code to define a function in Python. <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> Write code to check if a number is even in Python. <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> What is the easiest way to count the items in a list in Python? <assistant> Use len(items) to get how many items a list has. <eos>
+<user> What is the easiest way to reverse a string in Python? <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> What is the easiest way to loop over a list in Python? <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> Write code to sort a list in Python. <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> Show me how to reverse a string in Python. <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> How do I check if a number is even in Python? <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Show me how to make a dictionary in Python. <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> How do I count the items in a list in Python? <assistant> Use len(items) to get how many items a list has. <eos>
+<user> How do I sort a list in Python? <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> What is the easiest way to read a file in Python? <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Write code to loop over a list in Python. <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> How do I define a function in Python? <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> How do I loop over a list in Python? <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> Show me how to define a function in Python. <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> What is the easiest way to make a dictionary in Python? <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> What is the easiest way to define a function in Python? <assistant> Use def: def add(a, b): return a + b. <eos>
+<user> Write code to reverse a string in Python. <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> Write code to read a file in Python. <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> How do I read a file in Python? <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Write code to make a dictionary in Python. <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> How do I make a dictionary in Python? <assistant> Use curly braces with key-value pairs: d = {'a': 1, 'b': 2}. <eos>
+<user> Show me how to read a file in Python. <assistant> Use with open('file.txt') as f: text = f.read() so the file closes automatically. <eos>
+<user> Show me how to loop over a list in Python. <assistant> Use a for loop: for item in items: print(item). <eos>
+<user> What is the easiest way to sort a list in Python? <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> Show me how to count the items in a list in Python. <assistant> Use len(items) to get how many items a list has. <eos>
+<user> Show me how to sort a list in Python. <assistant> Call sorted(items) for a new sorted list or items.sort() to sort in place. <eos>
+<user> How do I reverse a string in Python? <assistant> Use slicing: s[::-1] returns the string reversed. <eos>
+<user> Show me how to check if a number is even in Python. <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Write code to count the items in a list in Python. <assistant> Use len(items) to get how many items a list has. <eos>
+<user> What is the easiest way to check if a number is even in Python? <assistant> Use the remainder operator: n % 2 == 0 is True for even numbers. <eos>
+<user> Write code to define a function in Python. <assistant> Use def: def add(a, b): return a + b. <eos>

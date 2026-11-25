@@ -1,0 +1,240 @@
+<user> What is 81 minus 34? <assistant> 81 minus 34 is 47. <eos>
+<user> What is 91 minus 52? <assistant> 91 minus 52 is 39. <eos>
+<user> What is 29 plus 3? <assistant> 29 plus 3 is 32. <eos>
+<user> What is 26 plus 33? <assistant> 26 plus 33 is 59. <eos>
+<user> What is 21 plus 6? <assistant> 21 plus 6 is 27. <eos>
+<user> What is 44 times 33? <assistant> 44 times 33 is 1452. <eos>
+<user> Solve 3x + 71 = 80. <assistant> Subtract 71 from both sides to get 3x = 9, so x = 3. <eos>
+<user> What is 59 times 10? <assistant> 59 times 10 is 590. <eos>
+<user> What is 95 plus 36? <assistant> 95 plus 36 is 131. <eos>
+<user> What is 25 times 6? <assistant> 25 times 6 is 150. <eos>
+<user> Solve 6x + 67 = 91. <assistant> Subtract 67 from both sides to get 6x = 24, so x = 4. <eos>
+<user> What is 41 plus 61? <assistant> 41 plus 61 is 102. <eos>
+<user> What is 16 plus 6? <assistant> 16 plus 6 is 22. <eos>
+<user> What is 6 times 65? <assistant> 6 times 65 is 390. <eos>
+<user> Solve 9x + 22 = 175. <assistant> Subtract 22 from both sides to get 9x = 153, so x = 17. <eos>
+<user> What is 59 times 65? <assistant> 59 times 65 is 3835. <eos>
+<user> Solve 6x + 99 = 111. <assistant> Subtract 99 from both sides to get 6x = 12, so x = 2. <eos>
+<user> Solve 3x + 44 = 50. <assistant> Subtract 44 from both sides to get 3x = 6, so x = 2. <eos>
+<user> What is 74 minus 30? <assistant> 74 minus 30 is 44. <eos>
+<user> What is 55 plus 26? <assistant> 55 plus 26 is 81. <eos>
+<user> What is 88 minus 47? <assistant> 88 minus 47 is 41. <eos>
+<user> What is 35 minus 10? <assistant> 35 minus 10 is 25. <eos>
+<user> What is 22 times 45? <assistant> 22 times 45 is 990. <eos>
+<user> Solve 6x + 71 = 173. <assistant> Subtract 71 from both sides to get 6x = 102, so x = 17. <eos>
+<user> What is 68 minus 32? <assistant> 68 minus 32 is 36. <eos>
+<user> Solve 2x + 88 = 110. <assistant> Subtract 88 from both sides to get 2x = 22, so x = 11. <eos>
+<user> Solve 4x + 47 = 123. <assistant> Subtract 47 from both sides to get 4x = 76, so x = 19. <eos>
+<user> What is 9 plus 72? <assistant> 9 plus 72 is 81. <eos>
+<user> What is 92 minus 10? <assistant> 92 minus 10 is 82. <eos>
+<user> What is 64 times 77? <assistant> 64 times 77 is 4928. <eos>
+<user> What is 88 minus 98? <assistant> 88 minus 98 is -10. <eos>
+<user> Solve 4x + 53 = 61. <assistant> Subtract 53 from both sides to get 4x = 8, so x = 2. <eos>
+<user> What is 46 minus 57? <assistant> 46 minus 57 is -11. <eos>
+<user> What is 91 minus 44? <assistant> 91 minus 44 is 47. <eos>
+<user> What is 20 minus 91? <assistant> 20 minus 91 is -71. <eos>
+<user> What is 11 times 84? <assistant> 11 times 84 is 924. <eos>
+<user> Solve 6x + 89 = 203. <assistant> Subtract 89 from both sides to get 6x = 114, so x = 19. <eos>
+<user> What is 94 plus 18? <assistant> 94 plus 18 is 112. <eos>
+<user> What is 73 plus 79? <assistant> 73 plus 79 is 152. <eos>
+<user> Solve 5x + 13 = 68. <assistant> Subtract 13 from both sides to get 5x = 55, so x = 11. <eos>
+<user> Solve 2x + 78 = 90. <assistant> Subtract 78 from both sides to get 2x = 12, so x = 6. <eos>
+<user> What is 26 plus 25? <assistant> 26 plus 25 is 51. <eos>
+<user> Solve 6x + 77 = 191. <assistant> Subtract 77 from both sides to get 6x = 114, so x = 19. <eos>
+<user> Solve 4x + 47 = 83. <assistant> Subtract 47 from both sides to get 4x = 36, so x = 9. <eos>
+<user> What is 66 times 19? <assistant> 66 times 19 is 1254. <eos>
+<user> What is 26 minus 17? <assistant> 26 minus 17 is 9. <eos>
+<user> What is 12 plus 43? <assistant> 12 plus 43 is 55. <eos>
+<user> What is 62 plus 10? <assistant> 62 plus 10 is 72. <eos>
+<user> Solve 3x + 41 = 83. <assistant> Subtract 41 from both sides to get 3x = 42, so x = 14. <eos>
+<user> What is 39 minus 25? <assistant> 39 minus 25 is 14. <eos>
+<user> What is 52 times 13? <assistant> 52 times 13 is 676. <eos>
+<user> What is 92 times 30? <assistant> 92 times 30 is 2760. <eos>
+<user> What is 63 plus 28? <assistant> 63 plus 28 is 91. <eos>
+<user> What is 2 minus 78? <assistant> 2 minus 78 is -76. <eos>
+<user> What is 79 times 72? <assistant> 79 times 72 is 5688. <eos>
+<user> What is 79 plus 75? <assistant> 79 plus 75 is 154. <eos>
+<user> What is 47 times 57? <assistant> 47 times 57 is 2679. <eos>
+<user> What is 5 minus 17? <assistant> 5 minus 17 is -12. <eos>
+<user> What is 7 plus 75? <assistant> 7 plus 75 is 82. <eos>
+<user> What is 47 minus 76? <assistant> 47 minus 76 is -29. <eos>
+<user> Solve 9x + 64 = 154. <assistant> Subtract 64 from both sides to get 9x = 90, so x = 10. <eos>
+<user> What is 80 minus 83? <assistant> 80 minus 83 is -3. <eos>
+<user> Solve 8x + 30 = 134. <assistant> Subtract 30 from both sides to get 8x = 104, so x = 13. <eos>
+<user> What is 44 plus 96? <assistant> 44 plus 96 is 140. <eos>
+<user> Solve 9x + 94 = 103. <assistant> Subtract 94 from both sides to get 9x = 9, so x = 1. <eos>
+<user> What is 41 plus 14? <assistant> 41 plus 14 is 55. <eos>
+<user> What is 73 plus 90? <assistant> 73 plus 90 is 163. <eos>
+<user> Solve 3x + 66 = 72. <assistant> Subtract 66 from both sides to get 3x = 6, so x = 2. <eos>
+<user> What is 60 plus 96? <assistant> 60 plus 96 is 156. <eos>
+<user> What is 88 plus 69? <assistant> 88 plus 69 is 157. <eos>
+<user> What is 91 minus 88? <assistant> 91 minus 88 is 3. <eos>
+<user> Solve 3x + 4 = 64. <assistant> Subtract 4 from both sides to get 3x = 60, so x = 20. <eos>
+<user> What is 72 minus 44? <assistant> 72 minus 44 is 28. <eos>
+<user> Solve 6x + 63 = 165. <assistant> Subtract 63 from both sides to get 6x = 102, so x = 17. <eos>
+<user> Solve 6x + 99 = 171. <assistant> Subtract 99 from both sides to get 6x = 72, so x = 12. <eos>
+<user> What is 72 plus 39? <assistant> 72 plus 39 is 111. <eos>
+<user> What is 9 minus 88? <assistant> 9 minus 88 is -79. <eos>
+<user> What is 71 minus 37? <assistant> 71 minus 37 is 34. <eos>
+<user> What is 19 plus 98? <assistant> 19 plus 98 is 117. <eos>
+<user> Solve 3x + 44 = 98. <assistant> Subtract 44 from both sides to get 3x = 54, so x = 18. <eos>
+<user> What is 81 minus 34? <assistant> 81 minus 34 is 47. <eos>
+<user> What is 91 minus 52? <assistant> 91 minus 52 is 39. <eos>
+<user> What is 29 plus 3? <assistant> 29 plus 3 is 32. <eos>
+<user> What is 26 plus 33? <assistant> 26 plus 33 is 59. <eos>
+<user> What is 21 plus 6? <assistant> 21 plus 6 is 27. <eos>
+<user> What is 44 times 33? <assistant> 44 times 33 is 1452. <eos>
+<user> Solve 3x + 71 = 80. <assistant> Subtract 71 from both sides to get 3x = 9, so x = 3. <eos>
+<user> What is 59 times 10? <assistant> 59 times 10 is 590. <eos>
+<user> What is 95 plus 36? <assistant> 95 plus 36 is 131. <eos>
+<user> What is 25 times 6? <assistant> 25 times 6 is 150. <eos>
+<user> Solve 6x + 67 = 91. <assistant> Subtract 67 from both sides to get 6x = 24, so x = 4. <eos>
+<user> What is 41 plus 61? <assistant> 41 plus 61 is 102. <eos>
+<user> What is 16 plus 6? <assistant> 16 plus 6 is 22. <eos>
+<user> What is 6 times 65? <assistant> 6 times 65 is 390. <eos>
+<user> Solve 9x + 22 = 175. <assistant> Subtract 22 from both sides to get 9x = 153, so x = 17. <eos>
+<user> What is 59 times 65? <assistant> 59 times 65 is 3835. <eos>
+<user> Solve 6x + 99 = 111. <assistant> Subtract 99 from both sides to get 6x = 12, so x = 2. <eos>
+<user> Solve 3x + 44 = 50. <assistant> Subtract 44 from both sides to get 3x = 6, so x = 2. <eos>
+<user> What is 74 minus 30? <assistant> 74 minus 30 is 44. <eos>
+<user> What is 55 plus 26? <assistant> 55 plus 26 is 81. <eos>
+<user> What is 88 minus 47? <assistant> 88 minus 47 is 41. <eos>
+<user> What is 35 minus 10? <assistant> 35 minus 10 is 25. <eos>
+<user> What is 22 times 45? <assistant> 22 times 45 is 990. <eos>
+<user> Solve 6x + 71 = 173. <assistant> Subtract 71 from both sides to get 6x = 102, so x = 17. <eos>
+<user> What is 68 minus 32? <assistant> 68 minus 32 is 36. <eos>
+<user> Solve 2x + 88 = 110. <assistant> Subtract 88 from both sides to get 2x = 22, so x = 11. <eos>
+<user> Solve 4x + 47 = 123. <assistant> Subtract 47 from both sides to get 4x = 76, so x = 19. <eos>
+<user> What is 9 plus 72? <assistant> 9 plus 72 is 81. <eos>
+<user> What is 92 minus 10? <assistant> 92 minus 10 is 82. <eos>
+<user> What is 64 times 77? <assistant> 64 times 77 is 4928. <eos>
+<user> What is 88 minus 98? <assistant> 88 minus 98 is -10. <eos>
+<user> Solve 4x + 53 = 61. <assistant> Subtract 53 from both sides to get 4x = 8, so x = 2. <eos>
+<user> What is 46 minus 57? <assistant> 46 minus 57 is -11. <eos>
+<user> What is 91 minus 44? <assistant> 91 minus 44 is 47. <eos>
+<user> What is 20 minus 91? <assistant> 20 minus 91 is -71. <eos>
+<user> What is 11 times 84? <assistant> 11 times 84 is 924. <eos>
+<user> Solve 6x + 89 = 203. <assistant> Subtract 89 from both sides to get 6x = 114, so x = 19. <eos>
+<user> What is 94 plus 18? <assistant> 94 plus 18 is 112. <eos>
+<user> What is 73 plus 79? <assistant> 73 plus 79 is 152. <eos>
+<user> Solve 5x + 13 = 68. <assistant> Subtract 13 from both sides to get 5x = 55, so x = 11. <eos>
+<user> Solve 2x + 78 = 90. <assistant> Subtract 78 from both sides to get 2x = 12, so x = 6. <eos>
+<user> What is 26 plus 25? <assistant> 26 plus 25 is 51. <eos>
+<user> Solve 6x + 77 = 191. <assistant> Subtract 77 from both sides to get 6x = 114, so x = 19. <eos>
+<user> Solve 4x + 47 = 83. <assistant> Subtract 47 from both sides to get 4x = 36, so x = 9. <eos>
+<user> What is 66 times 19? <assistant> 66 times 19 is 1254. <eos>
+<user> What is 26 minus 17? <assistant> 26 minus 17 is 9. <eos>
+<user> What is 12 plus 43? <assistant> 12 plus 43 is 55. <eos>
+<user> What is 62 plus 10? <assistant> 62 plus 10 is 72. <eos>
+<user> Solve 3x + 41 = 83. <assistant> Subtract 41 from both sides to get 3x = 42, so x = 14. <eos>
+<user> What is 39 minus 25? <assistant> 39 minus 25 is 14. <eos>
+<user> What is 52 times 13? <assistant> 52 times 13 is 676. <eos>
+<user> What is 92 times 30? <assistant> 92 times 30 is 2760. <eos>
+<user> What is 63 plus 28? <assistant> 63 plus 28 is 91. <eos>
+<user> What is 2 minus 78? <assistant> 2 minus 78 is -76. <eos>
+<user> What is 79 times 72? <assistant> 79 times 72 is 5688. <eos>
+<user> What is 79 plus 75? <assistant> 79 plus 75 is 154. <eos>
+<user> What is 47 times 57? <assistant> 47 times 57 is 2679. <eos>
+<user> What is 5 minus 17? <assistant> 5 minus 17 is -12. <eos>
+<user> What is 7 plus 75? <assistant> 7 plus 75 is 82. <eos>
+<user> What is 47 minus 76? <assistant> 47 minus 76 is -29. <eos>
+<user> Solve 9x + 64 = 154. <assistant> Subtract 64 from both sides to get 9x = 90, so x = 10. <eos>
+<user> What is 80 minus 83? <assistant> 80 minus 83 is -3. <eos>
+<user> Solve 8x + 30 = 134. <assistant> Subtract 30 from both sides to get 8x = 104, so x = 13. <eos>
+<user> What is 44 plus 96? <assistant> 44 plus 96 is 140. <eos>
+<user> Solve 9x + 94 = 103. <assistant> Subtract 94 from both sides to get 9x = 9, so x = 1. <eos>
+<user> What is 41 plus 14? <assistant> 41 plus 14 is 55. <eos>
+<user> What is 73 plus 90? <assistant> 73 plus 90 is 163. <eos>
+<user> Solve 3x + 66 = 72. <assistant> Subtract 66 from both sides to get 3x = 6, so x = 2. <eos>
+<user> What is 60 plus 96? <assistant> 60 plus 96 is 156. <eos>
+<user> What is 88 plus 69? <assistant> 88 plus 69 is 157. <eos>
+<user> What is 91 minus 88? <assistant> 91 minus 88 is 3. <eos>
+<user> Solve 3x + 4 = 64. <assistant> Subtract 4 from both sides to get 3x = 60, so x = 20. <eos>
+<user> What is 72 minus 44? <assistant> 72 minus 44 is 28. <eos>
+<user> Solve 6x + 63 = 165. <assistant> Subtract 63 from both sides to get 6x = 102, so x = 17. <eos>
+<user> Solve 6x + 99 = 171. <assistant> Subtract 99 from both sides to get 6x = 72, so x = 12. <eos>
+<user> What is 72 plus 39? <assistant> 72 plus 39 is 111. <eos>
+<user> What is 9 minus 88? <assistant> 9 minus 88 is -79. <eos>
+<user> What is 71 minus 37? <assistant> 71 minus 37 is 34. <eos>
+<user> What is 19 plus 98? <assistant> 19 plus 98 is 117. <eos>
+<user> Solve 3x + 44 = 98. <assistant> Subtract 44 from both sides to get 3x = 54, so x = 18. <eos>
+<user> What is 81 minus 34? <assistant> 81 minus 34 is 47. <eos>
+<user> What is 91 minus 52? <assistant> 91 minus 52 is 39. <eos>
+<user> What is 29 plus 3? <assistant> 29 plus 3 is 32. <eos>
+<user> What is 26 plus 33? <assistant> 26 plus 33 is 59. <eos>
+<user> What is 21 plus 6? <assistant> 21 plus 6 is 27. <eos>
+<user> What is 44 times 33? <assistant> 44 times 33 is 1452. <eos>
+<user> Solve 3x + 71 = 80. <assistant> Subtract 71 from both sides to get 3x = 9, so x = 3. <eos>
+<user> What is 59 times 10? <assistant> 59 times 10 is 590. <eos>
+<user> What is 95 plus 36? <assistant> 95 plus 36 is 131. <eos>
+<user> What is 25 times 6? <assistant> 25 times 6 is 150. <eos>
+<user> Solve 6x + 67 = 91. <assistant> Subtract 67 from both sides to get 6x = 24, so x = 4. <eos>
+<user> What is 41 plus 61? <assistant> 41 plus 61 is 102. <eos>
+<user> What is 16 plus 6? <assistant> 16 plus 6 is 22. <eos>
+<user> What is 6 times 65? <assistant> 6 times 65 is 390. <eos>
+<user> Solve 9x + 22 = 175. <assistant> Subtract 22 from both sides to get 9x = 153, so x = 17. <eos>
+<user> What is 59 times 65? <assistant> 59 times 65 is 3835. <eos>
+<user> Solve 6x + 99 = 111. <assistant> Subtract 99 from both sides to get 6x = 12, so x = 2. <eos>
+<user> Solve 3x + 44 = 50. <assistant> Subtract 44 from both sides to get 3x = 6, so x = 2. <eos>
+<user> What is 74 minus 30? <assistant> 74 minus 30 is 44. <eos>
+<user> What is 55 plus 26? <assistant> 55 plus 26 is 81. <eos>
+<user> What is 88 minus 47? <assistant> 88 minus 47 is 41. <eos>
+<user> What is 35 minus 10? <assistant> 35 minus 10 is 25. <eos>
+<user> What is 22 times 45? <assistant> 22 times 45 is 990. <eos>
+<user> Solve 6x + 71 = 173. <assistant> Subtract 71 from both sides to get 6x = 102, so x = 17. <eos>
+<user> What is 68 minus 32? <assistant> 68 minus 32 is 36. <eos>
+<user> Solve 2x + 88 = 110. <assistant> Subtract 88 from both sides to get 2x = 22, so x = 11. <eos>
+<user> Solve 4x + 47 = 123. <assistant> Subtract 47 from both sides to get 4x = 76, so x = 19. <eos>
+<user> What is 9 plus 72? <assistant> 9 plus 72 is 81. <eos>
+<user> What is 92 minus 10? <assistant> 92 minus 10 is 82. <eos>
+<user> What is 64 times 77? <assistant> 64 times 77 is 4928. <eos>
+<user> What is 88 minus 98? <assistant> 88 minus 98 is -10. <eos>
+<user> Solve 4x + 53 = 61. <assistant> Subtract 53 from both sides to get 4x = 8, so x = 2. <eos>
+<user> What is 46 minus 57? <assistant> 46 minus 57 is -11. <eos>
+<user> What is 91 minus 44? <assistant> 91 minus 44 is 47. <eos>
+<user> What is 20 minus 91? <assistant> 20 minus 91 is -71. <eos>
+<user> What is 11 times 84? <assistant> 11 times 84 is 924. <eos>
+<user> Solve 6x + 89 = 203. <assistant> Subtract 89 from both sides to get 6x = 114, so x = 19. <eos>
+<user> What is 94 plus 18? <assistant> 94 plus 18 is 112. <eos>
+<user> What is 73 plus 79? <assistant> 73 plus 79 is 152. <eos>
+<user> Solve 5x + 13 = 68. <assistant> Subtract 13 from both sides to get 5x = 55, so x = 11. <eos>
+<user> Solve 2x + 78 = 90. <assistant> Subtract 78 from both sides to get 2x = 12, so x = 6. <eos>
+<user> What is 26 plus 25? <assistant> 26 plus 25 is 51. <eos>
+<user> Solve 6x + 77 = 191. <assistant> Subtract 77 from both sides to get 6x = 114, so x = 19. <eos>
+<user> Solve 4x + 47 = 83. <assistant> Subtract 47 from both sides to get 4x = 36, so x = 9. <eos>
+<user> What is 66 times 19? <assistant> 66 times 19 is 1254. <eos>
+<user> What is 26 minus 17? <assistant> 26 minus 17 is 9. <eos>
+<user> What is 12 plus 43? <assistant> 12 plus 43 is 55. <eos>
+<user> What is 62 plus 10? <assistant> 62 plus 10 is 72. <eos>
+<user> Solve 3x + 41 = 83. <assistant> Subtract 41 from both sides to get 3x = 42, so x = 14. <eos>
+<user> What is 39 minus 25? <assistant> 39 minus 25 is 14. <eos>
+<user> What is 52 times 13? <assistant> 52 times 13 is 676. <eos>
+<user> What is 92 times 30? <assistant> 92 times 30 is 2760. <eos>
+<user> What is 63 plus 28? <assistant> 63 plus 28 is 91. <eos>
+<user> What is 2 minus 78? <assistant> 2 minus 78 is -76. <eos>
+<user> What is 79 times 72? <assistant> 79 times 72 is 5688. <eos>
+<user> What is 79 plus 75? <assistant> 79 plus 75 is 154. <eos>
+<user> What is 47 times 57? <assistant> 47 times 57 is 2679. <eos>
+<user> What is 5 minus 17? <assistant> 5 minus 17 is -12. <eos>
+<user> What is 7 plus 75? <assistant> 7 plus 75 is 82. <eos>
+<user> What is 47 minus 76? <assistant> 47 minus 76 is -29. <eos>
+<user> Solve 9x + 64 = 154. <assistant> Subtract 64 from both sides to get 9x = 90, so x = 10. <eos>
+<user> What is 80 minus 83? <assistant> 80 minus 83 is -3. <eos>
+<user> Solve 8x + 30 = 134. <assistant> Subtract 30 from both sides to get 8x = 104, so x = 13. <eos>
+<user> What is 44 plus 96? <assistant> 44 plus 96 is 140. <eos>
+<user> Solve 9x + 94 = 103. <assistant> Subtract 94 from both sides to get 9x = 9, so x = 1. <eos>
+<user> What is 41 plus 14? <assistant> 41 plus 14 is 55. <eos>
+<user> What is 73 plus 90? <assistant> 73 plus 90 is 163. <eos>
+<user> Solve 3x + 66 = 72. <assistant> Subtract 66 from both sides to get 3x = 6, so x = 2. <eos>
+<user> What is 60 plus 96? <assistant> 60 plus 96 is 156. <eos>
+<user> What is 88 plus 69? <assistant> 88 plus 69 is 157. <eos>
+<user> What is 91 minus 88? <assistant> 91 minus 88 is 3. <eos>
+<user> Solve 3x + 4 = 64. <assistant> Subtract 4 from both sides to get 3x = 60, so x = 20. <eos>
+<user> What is 72 minus 44? <assistant> 72 minus 44 is 28. <eos>
+<user> Solve 6x + 63 = 165. <assistant> Subtract 63 from both sides to get 6x = 102, so x = 17. <eos>
+<user> Solve 6x + 99 = 171. <assistant> Subtract 99 from both sides to get 6x = 72, so x = 12. <eos>
+<user> What is 72 plus 39? <assistant> 72 plus 39 is 111. <eos>
+<user> What is 9 minus 88? <assistant> 9 minus 88 is -79. <eos>
+<user> What is 71 minus 37? <assistant> 71 minus 37 is 34. <eos>
+<user> What is 19 plus 98? <assistant> 19 plus 98 is 117. <eos>
+<user> Solve 3x + 44 = 98. <assistant> Subtract 44 from both sides to get 3x = 54, so x = 18. <eos>
